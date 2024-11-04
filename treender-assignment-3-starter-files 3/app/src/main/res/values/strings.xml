@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Treender</string>
+    <string name="tree_name">HoslerOak,</string>
+    <string name="tree_id">#7863</string>
+    <string name="tree_location">Arboretum</string>
+    <string name="logo_description">App Logo</string>
+    <string name="settings_description">Settings</string>
+    <string name="search_description">Search</string>
+
+    <string name="menu_reset">Reset</string>
+    <string name="menu_about">About</string>
+    <string name="snack_bar_reset">Reset to the first profile</string>
+    <string name="about_alert_title">About Treender</string>
+    <string name="about_alert_message">This app was created to support course content for IST HCDD 340 (<i>Human-Centered Design for Mobile Computing</i>).</string>
+</resources>
